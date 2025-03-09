@@ -1,0 +1,102 @@
+p {
+    color:black;
+    font-family: 'Playfair Display', serif;
+}
+#Sintomas-ansiedad-y-depresion {background-color: rgb(171, 228, 228);}
+.Subtitulos {
+    color: rgb(171, 228, 228);
+    font-size: xx-large;
+    font-family: 'Playfair Display', serif;
+}
+.sintomas {
+    font-size: x-large;
+    color: white;
+    background-color: rgb(171, 228, 228);
+    font-family: 'Playfair Display', serif;
+}
+.tabla{font-size: 15px;}
+.tabla{color: white;}
+.titulo{ 
+    font-size:  80px;
+    color:white ;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+div .Subtitulos {
+    color: rgb(250, 183, 220);
+}
+
+header{
+    height:100px ;
+    background-color: rgb(171, 228, 228);
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-right: 30px ;
+    
+}
+a:hover{
+    color:rgb(255, 255, 255);
+}
+
+#salud{
+    width: 300px;
+}
+#depresion{
+    width: 300px;
+}
+#ansiedad{
+    width: 300px;
+}
+
+nav{
+    background-color: rgb(250, 183, 220);
+    height: 60px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+section{
+    width: 1450px;
+    height: 750px;
+    float: left;
+    padding: 50px;
+
+}
+
+aside{
+    width: 300px;
+    height: 600px;
+    float: right;
+    border: 5px solid black;
+    padding-left: 10px;
+    background-color:rgb(255, 255, 255);
+    margin-top: 90px;
+    color: rgb(0, 0, 0);
+}
+
+.Contenido{
+    font-size: large;
+
+}
+.content{
+     font-size: larger;
+     text-align: center;
+}
+
+footer{
+    position: absolute;
+    background-color: rgb(171, 228, 228);
+    width: 100%;
+    height: 100px;
+    margin-top: 2350px;
+}
+.navbar {
+    font-family: 'Playfair Display', serif;
+    font-size: medium;
+    color: black;
+    font-weight: 700;
+}
+
